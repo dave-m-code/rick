@@ -137,7 +137,7 @@ window.addEventListener('keydown', (event) => {
   firstPersonControls.enabled = freeFlyMode
 })
 
-loadCharacterModel(model, '/models/gltf/rick_sanchez/scene.gltf', {
+loadCharacterModel(model, `${import.meta.env.BASE_URL}models/gltf/rick_sanchez/scene.gltf`, {
   buildings,
   camera,
   controls,
