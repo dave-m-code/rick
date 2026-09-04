@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#commands {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  color: white;
+  font-family: Arial, sans-serif;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 10px;
+  border-radius: 5px;
+}

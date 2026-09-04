@@ -1,0 +1,11 @@
+Model Information:
+* title:	Rick Sanchez
+* source:	https://sketchfab.com/3d-models/rick-sanchez-1a6d20d377d04929a6e5d14fb787e6b3
+* author:	patsuan (https://sketchfab.com/patsuan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Rick Sanchez" (https://sketchfab.com/3d-models/rick-sanchez-1a6d20d377d04929a6e5d14fb787e6b3) by patsuan (https://sketchfab.com/patsuan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
